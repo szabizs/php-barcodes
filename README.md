@@ -1,6 +1,8 @@
 # php-barcodes
 PHP - Barcode generator with Intervention
 
+This small script can generate image files based on a template and dynamic barcodes(see https://github.com/milon/barcode for details).
+
 
 Requirements folders + file:
 - fonts (__DIR__.'/src/fonts/')
