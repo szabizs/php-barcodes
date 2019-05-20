@@ -8,5 +8,5 @@ Requirements:
 - cache directory
 
 Packages:
-Intervention Image - http://image.intervention.io
-Barcode generatro - https://github.com/milon/barcode
+- Intervention Image - http://image.intervention.io
+- Barcode generator - https://github.com/milon/barcode
