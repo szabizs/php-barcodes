@@ -1,0 +1,13 @@
+{
+    "name": "szabi.zsoldos/barcodes",
+    "require": {
+        "intervention/image": "^2.4",
+        "milon/barcode": "^5.3"
+    },
+    "authors": [
+        {
+            "name": "Szabolcs Zsoldos",
+            "email": "zsoldos@materom.ro"
+        }
+    ]
+}
